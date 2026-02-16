@@ -14,13 +14,3 @@ This repository is **not** intended to host generic firmware builds.
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── firmwares/
-│   ├── HW_BRAND/
-│   │   ├── HW_NAME/
-|   |   |   |── firmware.bin
-│
-└── README.md
